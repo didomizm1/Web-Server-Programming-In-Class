@@ -2,7 +2,7 @@
 
 ### Web Server Programming Introduction
 
-![My Picture](images/readme/my_picture.jpg) 
+![My Picture](images/readme/my-picture.jpg) 
 
 Hello! My name is Matt DiDomizio, and I am currently a computer science major with a minor in astronomy. I am in my second-to-last semester at New Paltz, and right now, the computer-related courses I am enrolled in are Web Server Programming, Discrete & Continuous Computer Algorithms, and Computer-Aided Design I. I have previously taken a multitude of computer science courses, including Computer Science Foundations, Data Structures, Advanced Data Structures, Digital Logic, Object-Oriented Programming, Software Engineering, Discrete Mathematics for Computing, Operating Systems, and Assembly Language & Computer Architecture. Additionally, I have previously taken another CPS 493 course, Data Science, so Web Server Programming is an extra course I am taking out of interest in the subject. In the past, I worked on a cloud-based point of sale system as part of a collaborative project, and this piece software was created using technologies such as HTML, CSS, JavaScript, PHP, SQL, phpMyAdmin, Visual Studio Code, and GitHub. I also collaborated on a data science project in which a MapReduce recommendation system was created using Python, Python data science modules, and Hadoop. Other programming languages I am familiar with and have used in the past include Java, C/C++, and Lua. Another related experience I am involved in now is an internship in which I am aiding in creating coding courses for the younger generations. 
 
