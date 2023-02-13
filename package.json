@@ -1,0 +1,16 @@
+{
+  "name": "web-server-programming-in-class",
+  "version": "1.0.0",
+  "description": "![My Picture](images/readme/my-picture.jpg)",
+  "license": "BSD",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didomizm1/Web-Server-Programming-In-Class.git"
+  },
+  "private": true,
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
