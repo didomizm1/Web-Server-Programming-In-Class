@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/vue,node,react,vuejs,angular,wordpress,git,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=vue,node,react,vuejs,angular,wordpress,git,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/git,vue,node,react,vuejs,angular,wordpress,visualstudiocode,nextjs
+# Edit at https://www.toptal.com/developers/gitignore?templates=git,vue,node,react,vuejs,angular,wordpress,visualstudiocode,nextjs
 
 ### Angular ###
 ## Angular ##
@@ -48,15 +48,47 @@ e2e/*.map
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
+### NextJS ###
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
 ### Node ###
 # Logs
 logs
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 lerna-debug.log*
-.pnpm-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -96,7 +128,6 @@ jspm_packages/
 web_modules/
 
 # TypeScript cache
-*.tsbuildinfo
 
 # Optional npm cache directory
 .npm
@@ -279,4 +310,4 @@ wp-config.php
 #/wp-content/themes
 
 
-# End of https://www.toptal.com/developers/gitignore/api/vue,node,react,vuejs,angular,wordpress,git,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/git,vue,node,react,vuejs,angular,wordpress,visualstudiocode,nextjs
