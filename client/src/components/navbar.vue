@@ -33,6 +33,7 @@ import LoginBadge from './LoginBadge.vue';
 
                 <RouterLink to="/" class="navbar-item">Home</RouterLink>
                 <RouterLink to="/about" class="navbar-item">About</RouterLink>
+                <RouterLink to="/products" class="navbar-item">Products</RouterLink>
 
                 <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link" href="https://bulma.io/documentation/overview/start/">
