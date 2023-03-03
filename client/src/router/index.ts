@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import ProductsVue from '@/views/Products.vue'
-import LoginVue from '@/views/Products.vue'
+import LoginVue from '@/views/Login.vue'
 import { useSession } from '@/model/session'
 
 const router = createRouter({
